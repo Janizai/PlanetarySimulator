@@ -1,0 +1,15 @@
+| unit_t | unit_r | unit_m | unit_v | Units used in this file
+d,AU,kg, km s
+| N (int) | t | dt | m steps | k steps | Simulates 1000 days with dt = 1 day
+9 1000 1 100 5 Prints to screen every 100 iterations and writes to file every 5 iterations
+| m | r0x | r0y | r0z | v0x | v0y | v0z |
+1.989e+30    0,0,0            0,0,0
+3.285e+23    0.307499,0,0     0,58.98,0
+4.867e+24    0.71843,0,0      0,35.26,0
+5.972e+24    0.98329,0,0      0,30.29,0
+6.390e+23    1.3814,0,0       0,26.50,0
+1.898e+27    4.9501,0,0       0,13.72,0
+5.683e+26    9.0412,0,0       0,10.18,0
+8.681e+25    18.330,0,0       0,7.11,0
+1.024e+26    29.81,0,0        0,5.50,0
+Masses, initial positions and velocities.
