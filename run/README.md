@@ -1,11 +1,11 @@
-After compiling there should be an executable PlanetarySimulator in the folder run/, it is used as follows:
+**After compiling there should be an executable PlanetarySimulator in the folder run/, it is used as follows:**
 
-Usage: PlanetarySimulator input_file_1, input_file_2, ..., input_file_n
+**Usage:** PlanetarySimulator input_file_1, input_file_2, ..., input_file_n
 
 So it's just the executable followed by the filenames of the input files.
 The program will then generate output(s) from the input(s).
 
-Input file(s):
+**Input file(s):**
 
 Rows 1, 3, 5 and 6 are ignored by the program, don't use them for any values.
 All input values should be separated from eachother with either spaces (any amount) or commas.
