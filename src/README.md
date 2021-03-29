@@ -1,4 +1,4 @@
-Compilation instructions:
+# Compilation instructions:
 
 Use the following command in the folder src/:
 
